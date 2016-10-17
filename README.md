@@ -13,7 +13,7 @@ You must build the OpenSSL-Libraries before running the sample with:
 For all options see the help
 ```bash
 ./build-libssl-macOS.sh --help
-
+```
 **Enjoy OpenSSL on the iPhone!**
 
 You must build the OpenSSL-Libraries before running the sample with:
